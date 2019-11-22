@@ -1,0 +1,13 @@
+<?xml version = "1.0"?>
+<AGIRegistry version = "1.0">
+  <CategoryRegistry>
+    <Category Name = "UiPlugins">
+<NETUiPlugin 
+         DisplayName="Sample UI Plugin (Examples)"
+         TypeName="STK_Sample_UI_Plugin.MySampleUIPlugin"
+         AssemblyName="STK_Sample_UI_Plugin, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null"
+         CodeBase="C:\Users\Kyle Nave\source\repos\STK_UI_Plugin\STK_UI_Plugin\bin\Debug">
+	  </NETUiPlugin>
+	</Category>
+  </CategoryRegistry>
+</AGIRegistry>
